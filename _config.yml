@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "GISigh: Brendan Hoover's Webpage"
 title_separator          : "-"
-name                     : &name "Brendan"
+name                     : &name "Brendan Hoover"
 description              : &description "Geospatial statistician and Data Scientist"
 url                      : https://gisigh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
